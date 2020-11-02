@@ -1,6 +1,6 @@
-A three part project on creating charts to visualize a wrestler's wins and losses over the course of four years. 
+ A three part project on creating charts to visualize a wrestler's wins and losses over the course of four years. 
 
-Winning Wrestlers Entertainment¶
+Winning Wrestlers Entertainment#
 In this activity you will be taking four seperate csvs that were scraped down from a wrestling database, merging them together, and then creating charts to visualize a wrestler's wins and losses over the course of four years.
 
 Part 1 - Macho Merging
